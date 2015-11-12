@@ -1,0 +1,27 @@
+{
+  "name": "linvilleridge",
+  "version": "1.0.0",
+  "description": "Linvilleridge.com website",
+  "main": "index.js",
+  "dependencies": {
+    "metalsmith": "^2.1.0",
+    "react-image-gallery": "^0.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://orgreeno@github.com/orgreeno/linvilleridge.git"
+  },
+  "author": "Rod Green",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orgreeno/linvilleridge/issues"
+  },
+  "homepage": "https://github.com/orgreeno/linvilleridge#readme",
+  "babel": {
+    "presets": ["react"]
+  }
+}
